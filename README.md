@@ -1,1 +1,1 @@
-# employee_satisfaction_dataset_classification
+# employee_satisfaction_classification
