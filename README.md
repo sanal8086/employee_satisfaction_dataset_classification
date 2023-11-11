@@ -1,4 +1,4 @@
-# employee_satisfaction_classification
+# Predicting Employee Satisfaction: A Flask-powered Deployment Approach
 
 
 ## This project consists of two main parts:
